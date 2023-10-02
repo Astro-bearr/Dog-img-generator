@@ -47,7 +47,7 @@ console.log("click-count",setCounter(counter+1));
 
   </div>
     <img className='img' style={{add}} src={img} alt="title" />
-    <Button type='primary' onClick={handleClick}>next</Button>
+    <Button type='primary' className="primary-btn" onClick={handleClick}>Next-Image</Button>
    </div>
   )
 }
