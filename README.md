@@ -2,7 +2,7 @@
 
 Introducing an pet image generator for all pet lovers out there. You can use this tool to get lots of cute pictures of your favourite pet.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](public/image_2023-10-11_170837068.png)
 
 ## Visit our site [Pet-Image](https://dog-img-generator.vercel.app)
 
