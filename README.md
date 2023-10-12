@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Pet Image Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introducing an pet image generator for all pet lovers out there. You can use this tool to get lots of cute pictures of your favourite pet.
 
-## Available Scripts
+![App Screenshot](public/image_2023-10-11_170837068.png)
 
-In the project directory, you can run:
+## Visit our site [Pet-Image](https://dog-img-generator.vercel.app)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 How to Contribute
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We appreciate your contributions to make this repository better! Here's how you can contribute:
 
-### `npm test`
+### 1. Create an Issue
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you encounter issues with the existing code, or if you have suggestions for improvements, please create an issue. Please provide desciptions about your suggestions or bugs
 
-### `npm run build`
+### 2. Fork and Clone
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To start contributing, fork this repository to your GitHub account, and then clone it to your local machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/Astro-bearr/Dog-img-generator.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 3. Create a New Feature Branch
+Before making changes, create a new branch for your feature or bug fix.
 
-### `npm run eject`
+```bash
+git checkout -b feature-name
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 4. Make Changes and Commit
+Commit you changes to the newly created branch.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 5. Create a Pull Request
+Once you've made your changes and pushed them to your forked repository, create a pull request to merge your changes into the main repository.
